@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Geniot : Smart Product Landing Page</title>
+    <title>Smart-Tech</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Linearicons Icons CSS -->
@@ -62,22 +62,22 @@
                         <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                             <ul class="navbar-nav ml-auto mr-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link active" href="index.php">Overview</a>
+                                    <a class="nav-link active" href="index.php">HOME</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#info">Learn</a>
+                                    <a class="nav-link" href="about.php">ABOUT</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="page1.php">How It Works</a>
+                                    <a class="nav-link" href="page1.php">SERVICES</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="page2.php">Features</a>
+                                    <a class="nav-link" href="page2.php">PRODUCTS</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="page3.php">Support</a>
+                                    <a class="nav-link" href="page3.php">CAREER</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="page4.php">Contact</a>
+                                    <a class="nav-link" href="page4.php">CONTACT</a>
                                 </li>
                             </ul>
                             <ul class="nav justify-content-end">
