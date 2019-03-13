@@ -52,7 +52,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="index.php">
                             <img class="img-fluid" src="images/logo.jpg" alt="logo">
                         </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -68,16 +68,16 @@
                                     <a class="nav-link" href="about.php">ABOUT</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="page1.php">SERVICES</a>
+                                    <a class="nav-link" href="services.php">SERVICES</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="page2.php">PRODUCTS</a>
+                                    <a class="nav-link" href="products.php">PRODUCTS</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="page3.php">CAREER</a>
+                                    <a class="nav-link" href="career.php">CAREER</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="page4.php">CONTACT</a>
+                                    <a class="nav-link" href="contact.php">CONTACT</a>
                                 </li>
                             </ul>
                             <ul class="nav justify-content-end">
