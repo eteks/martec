@@ -12,11 +12,11 @@
 <ul>    <!-- SLIDE  -->
     <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
         <!-- MAIN IMAGE -->
-        <img src="revslider/assets/8e70b-Untitled-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+        <img src="revslider/assets/main_slide_1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
         <!-- LAYERS -->
 
         <!-- LAYER NR. 1 -->
-        <div class="tp-caption   tp-resizeme" 
+         <!--<div class="tp-caption   tp-resizeme" 
              id="slide-3-layer-14" 
              data-x="869" 
              data-y="229" 
@@ -33,7 +33,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 6;"><img src="revslider/assets/8e6fd-Untitled-2.png" alt="" data-ww="373px" data-hh="506px" data-no-retina> </div>
+            style="z-index: 6;"><img src="revslider/assets/8e6fd-Untitled-2.png" alt="" data-ww="373px" data-hh="506px" data-no-retina> </div>-->
 
         <!-- LAYER NR. 2 -->
         <div class="tp-caption   tp-resizeme" 
